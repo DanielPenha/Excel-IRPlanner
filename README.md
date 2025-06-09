@@ -53,7 +53,7 @@ https://www.neofin.com.br/blog/codigos-bancarios
 *Visitado em 08/06/2025 às 22:46*  
 
 - **Formatos de CPF, CNPJ e outros dados no Excel**  
-https://www.green.com.br/blog/aprenda-como-formatar-dados-no-excel-cpf-cnpj-cep-e-muito-mais/
+https://www.green.com.br/blog/aprenda-como-formatar-dados-no-excel-cpf-cnpj-cep-e-muito-mais/  
 Exemplo de formatação utilizada para CPF: `000"."000"."000"-"`  
 *Visitado em 08/06/2025 às 23:00*  
 
